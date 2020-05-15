@@ -1,12 +1,6 @@
 using EmailService.Middlewares;
 using EmailService.Services.Logs;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Models.Options;
-using RTUITLab.EmailService.Client;
+using Mic
 
 namespace EmailService
 {
